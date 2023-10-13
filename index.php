@@ -37,7 +37,7 @@
                             <li>Optimización de rendimiento</li>
                             <li>Soporte post-lanzamiento</li>
                         </ul>
-                        <a href="Pages/servicio.form.php?service=Aplicación-Web" t shadow hover-shadow-mdype="button" class="w-100 btn btn-lg btn-outline-primary">Elegir Este Servicio</a>
+                        <a href="Pages/Cliente/Registro.Cliente.php" t shadow hover-shadow-mdype="button" class="w-100 btn btn-lg btn-outline-dark">Elegir Este Servicio</a>
                     </div>
                 </div>
             </div>
@@ -55,13 +55,13 @@
                             <li>Notificaciones push</li>
                             <li>Integración de servicios en la nube</li>
                         </ul>
-                        <a href="Pages/servicio.form.php?service=Aplicación-Movil" type="button" class="w-100 btn btn-lg btn-primary">Elegir Este Servicio</a>
+                        <a href="Pages/Cliente/Registro.Cliente.php" type="button" class="w-100 btn btn-lg btn-dark">Elegir Este Servicio</a>
                     </div>
                 </div>
             </div>
             <div class="col">
-                <div class="card mb-4 rounded-3 shadow-sm border-primary">
-                    <div class="card-header py-3 text-bg-primary border-primary">
+                <div class="card mb-4 rounded-3 shadow-sm border-dark">
+                    <div class="card-header py-3 text-bg-dark border-dark">
                         <h4 class="my-0 fw-normal">Aplicación de Escritorio</h4>
                     </div>
                     <div class="card-body">
@@ -73,7 +73,7 @@
                             <li>Funciona sin conexión a internet</li>
                             <li>Soporte técnico dedicado</li>
                         </ul>
-                        <a href="Pages/servicio.form.php?service=Aplicación-de-Escritorio" type="button" class="w-100 btn btn-lg btn-primary">Elegir Este Servicio</a>
+                        <a href="Pages/Cliente/Registro.Cliente.php" type="button" class="w-100 btn btn-lg btn-dark">Elegir Este Servicio</a>
                     </div>
                 </div>
             </div>

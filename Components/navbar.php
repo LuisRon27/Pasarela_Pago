@@ -1,5 +1,5 @@
 <!--navbar-->
-<nav class="navbar navbar-expand-sm navbar-dark bg-primary" aria-label="Third navbar example">
+<nav class="navbar navbar-expand-sm navbar-dark bg-dark" aria-label="Third navbar example">
         <div class="container-fluid">
             <!--Logo-->
             <a class="navbar-brand mb-2 mt-2" href="#">Luis Ron</a>
