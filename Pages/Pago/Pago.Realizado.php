@@ -21,7 +21,7 @@
     ?>
     <div class="container text-center">
     
-        <img src="../../Img/Success.svg" class="px-4 text-center mb-4" alt="Success" width="500"
+        <img src="../../Img/Success.svg" class="px-4 text-center mb-4 img-fluid " alt="Success" width="500"
                         loading="lazy">
         
     </div>

@@ -116,7 +116,7 @@
                     ?>
 
                     <div class="text-center mb-3">
-                        <button type="submit" class="btn btn-primary">Pagar</button>
+                        <button type="submit" class="btn btn-primary" onclick="return confirm('¿Confirma la compra de este Servicio?');">Pagar</button>
                         <a href="../../index.php" onclick="return confirm('¿Seguro que desea cancelar el Pago?');"
                             class="btn btn-danger">Cancelar</a>
                     </div>
